@@ -3,7 +3,7 @@
     "description": "Integrate facebook event in Bolt CMS",
     "type": "bolt-extension",
     "keywords": ["facebook", "event", "twig extension"],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "bolt/bolt": ">=2.0.0,<3.0.0"
     },
